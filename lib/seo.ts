@@ -10,6 +10,7 @@ export function generateJsonLd(): JsonLdObject[] {
   const siteUrl = seo.siteUrl || "";
   const schemas: JsonLdObject[] = [];
 
+  // 1. Person — the psychologist
   const person: JsonLdObject = {
     "@type": "Person",
     name: c.site.name,
@@ -43,6 +44,7 @@ export function generateJsonLd(): JsonLdObject[] {
     }),
   };
 
+  // 2. ProfessionalService — the practice
   const service: JsonLdObject = {
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
@@ -78,6 +80,7 @@ export function generateJsonLd(): JsonLdObject[] {
   };
   schemas.push(service);
 
+  // 3. FAQPage — from FAQ content
   if (c.faq.length > 0) {
     schemas.push({
       "@context": "https://schema.org",
@@ -93,6 +96,7 @@ export function generateJsonLd(): JsonLdObject[] {
     });
   }
 
+  // 4. WebSite
   if (siteUrl) {
     schemas.push({
       "@context": "https://schema.org",
