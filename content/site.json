@@ -1,25 +1,43 @@
 {
   "site": {
-    "name": "Atelier Psykhe",
+    "name": "Fatma Duran",
     "title": "Psikanalitik Psikoterapi",
-    "email": "atolye@psykhe.com",
-    "phone": "+90 212 000 00 00",
-    "address": "Nişantaşı, İstanbul",
-    "hours": "Hafta içi 10.00 - 19.00",
+    "email": "randevu@atelierpsykhe.com",
+    "address": "Cihangir, İstanbul",
     "copyright": "Tüm hakları saklıdır."
   },
   "home": {
-    "badge": "ATELIER PSYKHE",
-    "headline": "Terapi, mermerden",
+    "headline": "Terapi, mermerden\nfazlalığı",
     "headlineAccent": "yontmaktır.",
-    "headlineSuffix": "fazlalığı",
     "description": "Psikanalitik süreçte, zihnin karanlık koridorlarında kaybolmuş parçaları aydınlığa çıkarırız.",
     "cta": "Süreci Başlat",
-    "cardTitle": "İç Dünyanın Haritası",
-    "cardSubtitle": "Psikanalitik Psikoterapi",
     "quote": "Her insan, içinde bir başka formu barındıran bir mermer bloktur. Terapistin işi, o formu ortaya çıkarmak değil, danışanın kendi ellerini kullanmasına alan açmaktır.",
-    "quoteAuthor": "Uzm. Psk. Örnek Psikolog"
+    "quoteAuthor": "Fatma Duran",
+    "credentials": [
+      "TPD Üyeliği",
+      "Psikanaliz Derneği",
+      "ISST Akreditasyon",
+      "Psikanalist Sertifika"
+    ]
   },
+  "metrics": [
+    {
+      "val": "12+",
+      "label": "Yıl Klinik Deneyim"
+    },
+    {
+      "val": "4500+",
+      "label": "Tamamlanmış Seans"
+    },
+    {
+      "val": "8+",
+      "label": "Akademik Yayın"
+    },
+    {
+      "val": "%100",
+      "label": "Etik Taahhüt"
+    }
+  ],
   "services": [
     {
       "title": "Bireysel Psikoterapi",
@@ -42,127 +60,96 @@
   ],
   "about": {
     "title": "Hakkımda",
-    "intro": "Psikanalitik yolculuğum, insanın bilinçdışındaki desenleri okuma merakıyla başladı. On yılı aşkın süredir danışanlarımın iç dünya haritalarında sessiz bir eşlikçi olarak bulunuyorum. Terapi, bir heykeltıraşın mermere yaklaşımı gibidir: sabır, hassasiyet ve fazlalığın altındaki özü görme cesareti gerektirir.",
+    "intro": "Psikanalitik gelenek içinde, bilinçdışının dilini dinlemeyi ve danışanla birlikte anlamlandırmayı merkeze alıyorum.",
     "credentials": [
       {
-        "year": "2012",
-        "title": "Psikoloji Lisansı",
-        "detail": "Klinik psikolojiye ilk adım, insan zihnine duyulan merakın resmiyet kazanması."
+        "year": "2014",
+        "title": "İstanbul Üniversitesi - Psikoloji Lisans",
+        "detail": "Birincilik derecesiyle mezuniyet"
       },
       {
-        "year": "2015",
+        "year": "2016",
         "title": "Klinik Psikoloji Yüksek Lisansı",
-        "detail": "Psikanalitik kuram üzerine tez çalışması ve ilk süpervizyonlu vakalar."
+        "detail": "Kaygı bozuklukları tez çalışması"
       },
       {
         "year": "2018",
-        "title": "Psikanalitik Psikoterapi Formasyonu",
-        "detail": "Dört yıllık kuramsal eğitim, kişisel analiz ve yoğun süpervizyon süreci."
-      },
-      {
-        "year": "2021",
-        "title": "Özel Pratik: Atölyenin Kuruluşu",
-        "detail": "Kendi kliniğinde bireysel ve çift terapisi çalışmalarının başlaması."
-      },
-      {
-        "year": "2024",
-        "title": "Süpervizör & Eğitmen",
-        "detail": "Genç klinisyenlere süpervizyon; meslek içi eğitim ve seminerler."
+        "title": "EMDR Avrupa Akredite Uygulayıcı",
+        "detail": "EMDR Europe onaylı sertifika"
       }
     ]
   },
   "approach": {
     "title": "Yaklaşım",
-    "intro": "Psikanalitik çalışma bir teknikten çok bir tutumdur: acele etmeyen, yorumu dayatmayan, danışanın kendi keşfine alan açan bir birliktelik.",
+    "intro": "Psikanalitik süreç, semptomun ardındaki anlamı birlikte keşfetmek üzerine kuruludur.",
     "principles": [
       {
-        "title": "Serbest Çağrışım",
-        "desc": "Söz, yargılanmadan dolaşır. Aklınıza gelen her şey (rüyalar, anılar, dil sürçmeleri) atölyenin ham mermeridir."
+        "title": "Güvenli Alan",
+        "desc": "Tam gizliliğe ve şefkate dayalı bir terapötik alan."
       },
       {
-        "title": "Derin Dinleme",
-        "desc": "Analist, satır aralarını dinler. Tekrarlayan örüntüler, savunmalar ve bilinçdışı temalar yüzeye çağrılır."
+        "title": "Kişiye Özel Süreç",
+        "desc": "İhtiyaçlarınıza, hızınıza ve hedeflerinize özel planlama."
       },
       {
-        "title": "Aktarım Çalışması",
-        "desc": "Geçmiş ilişkilerin gölgeleri terapi odasında yeniden sahnelenir; bu kez fark edilerek, birlikte incelenerek."
-      },
-      {
-        "title": "Entegrasyon",
-        "desc": "İçgörü yaşama taşınır. Keşfedilen form, danışanın kendi elleriyle günlük hayatına yerleşir."
+        "title": "Aktif İş Birliği",
+        "desc": "İki uzmanın omuz omuza çalıştığı bir ortaklık."
       }
     ]
   },
   "articles": [
     {
-      "title": "Rüyaların Kral Yolu: Gündelik Hayatta Bilinçdışı",
-      "category": "Kuram",
-      "readTime": "10 dk",
-      "date": "Mayıs 2026",
-      "excerpt": "Freud'un 'kral yolu' metaforundan bugüne, rüya çalışmasının klinik pratikte hala neden vazgeçilmez olduğu üzerine."
-    },
-    {
-      "title": "Sessizliğin Sesi: Seansta Konuşmayan Danışan",
+      "title": "Kaygı Bozukluklarında Bilişsel Yeniden Yapılandırma",
       "category": "Klinik",
-      "readTime": "8 dk",
-      "date": "Şubat 2026",
-      "excerpt": "Sessizlik bir direnç mi, yoksa henüz kelime bulamamış bir anlatı mı? Terapötik sessizliğin katmanları."
+      "date": "28 Mayıs 2026",
+      "readTime": "8 dk"
     },
     {
-      "title": "Bağlanmanın Mermeri: Çift Terapisinde Örüntüler",
-      "category": "İlişkiler",
-      "readTime": "7 dk",
-      "date": "Kasım 2025",
-      "excerpt": "Çiftlerin tekrar eden kavgalarının altında yatan bağlanma koreografisini okumak."
+      "title": "Çocuklarda Duygusal Güvenlik Alanı Oluşturmak",
+      "category": "Çocuk-Ergen",
+      "date": "24 Temmuz 2026",
+      "readTime": "6 dk"
     },
     {
-      "title": "Rodin'in Düşünürü ve Düşünmenin Ağırlığı",
-      "category": "Kültür",
-      "readTime": "9 dk",
-      "date": "Ağustos 2025",
-      "excerpt": "Bir heykelin duruşundan psikanalitik duruşa: düşünceye eğilmenin bedensel tarihi."
-    },
-    {
-      "title": "Yasın Dört Mevsimi",
-      "category": "Klinik",
-      "readTime": "7 dk",
-      "date": "Mayıs 2025",
-      "excerpt": "Kayıpla yaşamayı öğrenmenin doğrusal olmayan takvimi üzerine klinik notlar."
+      "title": "EMDR ile Travma Sonrası Büyüme",
+      "category": "Travma",
+      "date": "10 Nisan 2026",
+      "readTime": "10 dk"
     }
   ],
   "faq": [
     {
-      "q": "İlk seansta ne olur?",
-      "a": "İlk görüşme bir tanışma ve ön değerlendirmedir. Sizi buraya getiren şeyi kendi kelimelerinizle anlatırsınız; birlikte çalışmanın size uygun olup olmadığına ve olası bir çerçeveye beraber karar veririz."
+      "q": "İlk terapi seansında ne yapılıyor?",
+      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır."
     },
     {
-      "q": "Seanslar ne sıklıkla ve ne kadar sürer?",
-      "a": "Bireysel görüşmeler 50 dakika sürer ve genellikle haftada bir yapılır. Psikanalitik yönelimli derin çalışmalarda sıklık, ihtiyaca göre birlikte yeniden düzenlenebilir."
+      "q": "Terapi seansları ne sıklıkla yapılmalı?",
+      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir."
     },
     {
-      "q": "Terapi süreci ne kadar devam eder?",
-      "a": "Bunun dürüst yanıtı: kişiye göre değişir. Odaklı bir mesele birkaç ayda derinleşebilirken, yapısal örüntülerle çalışmak daha uzun bir yolculuktur. Süreci düzenli aralıklarla birlikte değerlendiririz."
-    },
-    {
-      "q": "Görüşmeler gizli midir?",
-      "a": "Evet. Paylaştıklarınız meslek etiği ve yasal çerçeve kapsamında gizlidir. Gizliliğin yasal istisnaları (kendinize ya da bir başkasına ciddi zarar riski gibi) ilk görüşmede açıkça konuşulur."
-    },
-    {
-      "q": "Çevrim içi seans mümkün mü?",
-      "a": "Evet, görüşmeler güvenli görüntülü bağlantı üzerinden de yürütülebilir. Şehir dışı ve yurt dışı danışanlarla çalışmalar çoğunlukla bu şekilde ilerliyor."
-    },
-    {
-      "q": "Ücret ve iptal politikası nasıl işler?",
-      "a": "Güncel seans ücreti ilk görüşme öncesinde net olarak paylaşılır. Seans saatinden en az 24 saat önce bildirilen iptallerde ücret alınmaz; geç iptallerde seans yapılmış sayılır."
+      "q": "Seansların gizliliği nasıl korunur?",
+      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır."
     }
   ],
   "contact": {
     "title": "İletişim",
-    "intro": "İç yolculuğunuza sessiz bir adımla başlayın. Mesajınıza en geç iki iş günü içinde dönüş yapılır.",
-    "formName": "Adınız Soyadınız",
-    "formEmail": "E-posta adresiniz",
-    "formSubject": "Görüşme konusu (isteğe bağlı)",
+    "intro": "İlk görüşme için randevu almak veya sorularınızı iletmek için formu kullanabilirsiniz.",
+    "formName": "Ad Soyad",
+    "formEmail": "E-posta",
     "formMessage": "Mesajınız",
-    "formSubmit": "Mesajı Gönder"
+    "formSubmit": "Gönder"
+  },
+  "seo": {
+    "jobTitle": "Psikanalitik Psikoterapi",
+    "description": "Fatma Duran, Cihangir, İstanbul merkezli psikanalitik psikoterapi.",
+    "specialties": [],
+    "credentials": [
+      "İstanbul Üniversitesi - Psikoloji Lisans (2014)",
+      "Klinik Psikoloji Yüksek Lisansı (2016)",
+      "EMDR Avrupa Akredite Uygulayıcı (2018)"
+    ],
+    "location": "Cihangir, İstanbul",
+    "socialLinks": [],
+    "openingHours": "Mo-Fr 09:00-18:00"
   }
 }
